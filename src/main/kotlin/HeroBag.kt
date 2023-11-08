@@ -15,3 +15,8 @@ class HeroBag {
         }
     }
 }
+//Zusammenfassend lässt sich sagen, dass die Klasse HeroBag die Sammlung von Gegenständen verwaltet,
+// die ein Held besitzen kann. Sie ermöglicht das Hinzufügen von Gegenständen zur Tasche des Helden,
+// die zufällige Auswahl eines Gegenstandes, den ein Held benutzen soll, erfordert jedoch die
+// Implementierung der spezifischen Logik für die Auswirkungen dieser Gegenstände auf die Helden,
+// um voll funktionsfähig zu sein.
